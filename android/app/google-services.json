@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44266873361",
+    "project_id": "apptecnoformas",
+    "storage_bucket": "apptecnoformas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44266873361:android:8700f0f5276a45398647b0",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_tecnoformas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44266873361-6kmtfq6s307hh1hmr9e8lesmjqcpur08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4CCLr6z_0ZFrgnpuhIzCaxBfEPGqi0VY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44266873361-6kmtfq6s307hh1hmr9e8lesmjqcpur08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
